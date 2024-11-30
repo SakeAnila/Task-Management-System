@@ -76,6 +76,10 @@ This is a simple task management application built using Flask for the backend a
 4. Filter tasks by status to view specific categories (e.g., Pending, Completed).
 
 ---
+## Demo Video
+
+[Click here to watch the demo video](https://drive.google.com/file/d/1N_fPbqnR-1WAgUJZgP9V5Ew_HU2byaZU/view?usp=sharing)
+
 
 ## Contributing
 
